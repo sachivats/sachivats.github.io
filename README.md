@@ -4,4 +4,4 @@
 
 [Basketball Offence and Defence Strategies](https://sachivats.github.io/Basketball-Offence-and-Defence-Strategies/)
 
-[Trignometry](https://sachivats.github.io/trignometry/)
+[Trignometry](https://github.com/sachivats/trignometry)
