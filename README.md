@@ -5,3 +5,5 @@
 [Basketball Offence and Defence Strategies](https://sachivats.github.io/Basketball-Offence-and-Defence-Strategies/)
 
 [Trignometry](https://github.com/sachivats/trignometry)
+
+[Vectors](https://sachivats.github.io/vectors.github.io/)
