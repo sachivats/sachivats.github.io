@@ -6,4 +6,4 @@
 
 [Trignometry](https://github.com/sachivats/trignometry)
 
-[Vectors](https://sachivats.github.io/vectors.github.io/)
+[Glacial Erosion](https://sachivats.github.io/glacial-erosion/)
