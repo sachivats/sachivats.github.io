@@ -1,6 +1,6 @@
 # sachivats.github.io
 
-[IdeaBox](https://sachivats.github.io/ideabox.github.io/)
+[IdeaBox](https://sachivats.github.io/ideabox.github.io/index.html)
 
 [Pascals Triangle](https://sachivats.github.io/pascalstriangle.github.io/)
 
